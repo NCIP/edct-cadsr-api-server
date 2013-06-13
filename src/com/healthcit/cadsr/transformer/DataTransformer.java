@@ -1,3 +1,10 @@
+/*L
+ * Copyright HealthCare IT, Inc.
+ *
+ * Distributed under the OSI-approved BSD 3-Clause License.
+ * See http://ncip.github.com/edct-cadsr-api-server/LICENSE.txt for details.
+ */
+
 package com.healthcit.cadsr.transformer;
 import gov.nih.nci.cadsr.domain.AdministeredComponent;
 import gov.nih.nci.cadsr.domain.DataElement;
