@@ -10,7 +10,7 @@ You will find more details about EDCT caDSR-API-Server in the following links:
 
  * [Code Repository](https://github.com/NCIP/edct-cadsr-api-server)
  * [Issue Tracker](https://tracker.nci.nih.gov/browse/EDCT)
- * [Documentation]()
+ * [Documentation](https://wiki.nci.nih.gov/display/eDCT/Enterprise+Data+Collection+Tool)
  
  
 Please join us in further developing and improving EDCT caDSR-API-Server.
