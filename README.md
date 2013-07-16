@@ -1,6 +1,6 @@
 Welcome to the eDCT caDSR-API-Server Project!
 ==============================================
-eDCT caDSR-API-Server Project integrates [eDCT Form Builder] (https://github.com/NCIP/edct-form-builder) with [caDSR API](https://wiki.nci.nih.gov/x/pXtyAQ) and [caDSR object cart](https://wiki.nci.nih.gov/x/jA2y). It is developed in Java and requires Apache Ant for building.
+eDCT caDSR-API-Server Project integrates [eDCT Form Builder] (https://github.com/NCIP/edct-formbuilder) with [caDSR API](https://wiki.nci.nih.gov/x/pXtyAQ) and [caDSR object cart](https://wiki.nci.nih.gov/x/jA2y). It is developed in Java and requires Apache Ant for building.
 
 eDCT caDSR-API-Server is distributed under the BSD 3-Clause License. Please see the NOTICE and LICENSE files for details.
 
